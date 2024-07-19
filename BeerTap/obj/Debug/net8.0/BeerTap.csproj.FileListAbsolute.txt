@@ -1,0 +1,64 @@
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\bin\Debug\net8.0\appsettings.json
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\bin\Debug\net8.0\BeerTap.exe
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\bin\Debug\net8.0\BeerTap.deps.json
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\bin\Debug\net8.0\BeerTap.runtimeconfig.json
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\bin\Debug\net8.0\BeerTap.dll
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\bin\Debug\net8.0\BeerTap.pdb
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\obj\Debug\net8.0\BeerTap.csproj.AssemblyReference.cache
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\obj\Debug\net8.0\BeerTap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\obj\Debug\net8.0\BeerTap.AssemblyInfoInputs.cache
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\obj\Debug\net8.0\BeerTap.AssemblyInfo.cs
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\obj\Debug\net8.0\BeerTap.csproj.CoreCompileInputs.cache
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\obj\Debug\net8.0\BeerTap.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\obj\Debug\net8.0\BeerTap.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\obj\Debug\net8.0\staticwebassets\msbuild.BeerTap.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\obj\Debug\net8.0\staticwebassets\msbuild.build.BeerTap.props
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BeerTap.props
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BeerTap.props
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\obj\Debug\net8.0\scopedcss\bundle\BeerTap.styles.css
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\obj\Debug\net8.0\BeerTap.csproj.Up2Date
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\obj\Debug\net8.0\BeerTap.dll
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\obj\Debug\net8.0\refint\BeerTap.dll
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\obj\Debug\net8.0\BeerTap.pdb
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\obj\Debug\net8.0\BeerTap.genruntimeconfig.cache
+C:\Users\KMT\source\repos\BeerOpenTap\BeerTap\BeerTap\obj\Debug\net8.0\ref\BeerTap.dll
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\bin\Debug\net8.0\appsettings.json
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\bin\Debug\net8.0\BeerTap.exe
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\bin\Debug\net8.0\BeerTap.deps.json
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\bin\Debug\net8.0\BeerTap.runtimeconfig.json
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\bin\Debug\net8.0\BeerTap.dll
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\bin\Debug\net8.0\BeerTap.pdb
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\obj\Debug\net8.0\BeerTap.csproj.AssemblyReference.cache
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\obj\Debug\net8.0\BeerTap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\obj\Debug\net8.0\BeerTap.AssemblyInfoInputs.cache
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\obj\Debug\net8.0\BeerTap.AssemblyInfo.cs
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\obj\Debug\net8.0\BeerTap.csproj.CoreCompileInputs.cache
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\obj\Debug\net8.0\BeerTap.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\obj\Debug\net8.0\BeerTap.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\obj\Debug\net8.0\staticwebassets\msbuild.BeerTap.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\obj\Debug\net8.0\staticwebassets\msbuild.build.BeerTap.props
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BeerTap.props
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BeerTap.props
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\obj\Debug\net8.0\scopedcss\bundle\BeerTap.styles.css
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\obj\Debug\net8.0\BeerTap.csproj.Up2Date
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\obj\Debug\net8.0\BeerTap.dll
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\obj\Debug\net8.0\refint\BeerTap.dll
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\obj\Debug\net8.0\BeerTap.pdb
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\obj\Debug\net8.0\BeerTap.genruntimeconfig.cache
+C:\Users\KMT\Documents\Projects\OpenBeerTap Project\BeerTap-server\BeerTap\obj\Debug\net8.0\ref\BeerTap.dll

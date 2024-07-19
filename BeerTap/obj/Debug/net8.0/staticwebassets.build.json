@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "02CJbHp3REOsb8y5rs2WHEkbxxwiHBHZBGRLLLxykZE=",
+  "Source": "BeerTap",
+  "BasePath": "_content/BeerTap",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
