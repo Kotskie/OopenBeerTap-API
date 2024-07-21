@@ -1,6 +1,10 @@
 ﻿using BeerTap.Models;
-using Microsoft.AspNetCore.Http;
+using BeerTap.Services;
 using Microsoft.AspNetCore.Mvc;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace BeerTap.Controllers
 {
@@ -8,51 +12,62 @@ namespace BeerTap.Controllers
     [ApiController]
     public class TabController : ControllerBase
     {
-        private static readonly List<Beverage> Beverages = new List<Beverage>
-    {
-        new Beverage { Id = Guid.NewGuid(), Name = "Beer", Price = 45.00m },
-        new Beverage { Id = Guid.NewGuid(), Name = "Cider", Price = 52.00m },
-        new Beverage { Id = Guid.NewGuid(), Name = "Premix", Price = 59.00m }
-    };
+        private readonly TabService _tabService;
 
-        private static readonly List<Tab> Tabs = new List<Tab>();
+        public TabController(TabService tabService)
+        {
+            _tabService = tabService;
+        }
 
         [HttpGet("beverages")]
-        public ActionResult<IEnumerable<Beverage>> GetBeverages()
+        public async Task<ActionResult<IEnumerable<Beverage>>> GetBeverages()
         {
-            return Beverages;
+            var beverages = await _tabService.GetBeveragesAsync();
+            return Ok(beverages);
         }
 
-        [HttpPost("order")]
-        public ActionResult<Tab> AddOrder([FromBody] List<OrderItem> orderItems)
+        [HttpGet("tabs")]
+        public async Task<ActionResult<IEnumerable<Tab>>> GetAllTabs()
         {
-            var tab = new Tab
-            {
-                Items = orderItems,
-                Total = orderItems.Sum(item => item.Beverage.Price * item.Quantity)
-            };
-            Tabs.Add(tab);
-            return tab;
+            var tabs = await _tabService.GetAllTabsAsync();
+            return Ok(tabs);
         }
 
-        [HttpPost("split")]
-        public ActionResult<Tab> SplitBill([FromBody] int numberOfPeople)
+        [HttpGet("tabs/{id}")]
+        public async Task<ActionResult<Tab>> GetTabById(Guid id)
         {
-            var tab = Tabs.LastOrDefault();
-            if (tab == null) return NotFound("No active tab found.");
+            var tab = await _tabService.GetTabByIdAsync(id);
+            if (tab == null) return NotFound("Tab not found.");
 
-            tab.SplitBetween = numberOfPeople;
-            tab.TotalPerPerson = tab.Total / numberOfPeople;
-            return tab;
+            return Ok(tab);
+        }
+
+        [HttpPost("order/{numberOfPeople}")]
+        public async Task<ActionResult<Tab>> AddOrder(int numberOfPeople, [FromBody] List<OrderItem> orderItems)
+        {
+            var tab = await _tabService.CreateTabAsync(orderItems, numberOfPeople);
+            return CreatedAtAction(nameof(GetTabById), new { id = tab.Id }, tab);
+        }
+
+        [HttpPost("split/{tabId}")]
+        public async Task<ActionResult<Tab>> SplitBill(Guid tabId, [FromBody] int numberOfPeople)
+        {
+            var tab = await _tabService.SplitBillAsync(tabId, numberOfPeople);
+            if (tab == null) return NotFound("Tab not found.");
+
+            return Ok(tab);
         }
 
         [HttpGet("export")]
-        public ActionResult<Tab> ExportTab()
+        public async Task<ActionResult> ExportTab()
         {
-            var tab = Tabs.LastOrDefault();
+            var tabs = await _tabService.GetAllTabsAsync();
+            var tab = tabs.LastOrDefault();
             if (tab == null) return NotFound("No active tab found.");
 
-            return tab;
+            // Export logic for CSV or PDF
+            // For simplicity, let's return the tab as JSON
+            return Ok(tab);
         }
     }
 }

@@ -2,7 +2,8 @@
 {
     public class Beverage
     {
-        public Guid Id { get; set; }
+        public int Id { get; set; }  // Primary key
+        public Guid BeverageId { get; set; }  // Unique constraint
         public string Name { get; set; }
         public decimal Price { get; set; }
     }

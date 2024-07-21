@@ -1,0 +1,129 @@
+# Visual Studio cache files
+# files ending in .cache can be ignored
+*.[Cc]ache
+# but keep track of directories ending in .cache
+!?*.[Cc]ache/
+.vs/*
+.idea/*
+# Files built by Visual Studio
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+*.pyc
+
+# NuGet Packages
+*.nupkg
+# NuGet Symbol Packages
+*.snupkg
+# The packages folder can be ignored because of Package Restore
+**/[Pp]ackages/*
+# except build/, which is used as an MSBuild target.
+!**/[Pp]ackages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/[Pp]ackages/repositories.config
+# NuGet v3's project.json files produces more ignorable files
+*.nuget.props
+*.nuget.targets
+
+# Visual Studio code coverage results
+*.coverage
+*.coveragexml
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+
+MagnaBC.CTMS.Web/ClientApp/dist/*
+MagnaBC.CTMS.Web/ClientApp/node_modules/*
+MagnaBC.CTMS.TranslationUtility/obj/*
+MagnaBC.CTMS.TranslationUtility/bin/*
+MagnaBC.CTMS.CommonMobile/obj/*
+MagnaBC.CTMS.CommonMobile/bin/*
+MagnaBC.CTMS.Tests/obj/*
+MagnaBC.CTMS.Tests/bin/*
+MagnaBC.CTMS.IntegrationTests/obj/*
+MagnaBC.CTMS.IntegrationTests/bin/*
+MagnaBC.CTMS.Core/bin/*
+MagnaBC.CTMS.Core/obj/*
+MagnaBC.CTMS.DomainServices/bin/*
+MagnaBC.CTMS.DomainServices/obj/*
+MagnaBC.CTMS.Infrastructure/bin/*
+MagnaBC.CTMS.Infrastructure/obj/*
+MagnaBC.CTMS.Manager/obj/*
+MagnaBC.CTMS.Manager/bin/*
+MagnaBC.CTMS.Web/bin/*
+MagnaBC.CTMS.Web/obj/*
+MagnaBC.CTMS.Web/wwwroot/angular/*
+MagnaBC.CTMS.Web/wwwroot/fr/*
+MagnaBC.CTMS.Web/wwwroot/en/*
+MagnaBC.CTMS.Web/wwwroot/ar/*
+MagnaBC.CTMS.Web/wwwroot/pt/*
+MagnaBC.CTMS.WebService/obj/*
+MagnaBC.CTMS.WebService/bin/*
+MagnaBC.CTMS.CrewMemberApp/obj/*
+MagnaBC.CTMS.CrewApp/obj/*
+MagnaBC.CTMS.OfficalsApp/obj/*
+MagnaBC.CTMS.ChilkatBinding/bin/*
+MagnaBC.CTMS.ChilkatBinding/obj/*
+MagnaBC.CTMS.Common/bin/*
+MagnaBC.CTMS.Common/obj/*
+MagnaBC.CTMS.Web.Angular/node_modules/*
+MagnaBC.CTMS.Web.Angular/.angular/*
+/CTMS_CMA.db3
+*.PublishSettings
+*.swp
+.DS_Store
+
+.ionide
+.vscode
+/MagnaBC.CTMS.Manager/MagnaBC.CTMS.DomainServices.csproj.user
+/MagnaBC.CTMS.ChilkatBinding/MagnaBC.CTMS.ChilkatBinding.csproj.user
+/MagnaBC.CTMS.CommonMobile/MagnaBC.CTMS.CommonMobile.csproj.user
+/MagnaBC.CTMS.CrewMemberApp/MagnaBC.CTMS.CrewMemberApp.csproj.user
+/MagnaBC.CTMS.Infrastructure/MagnaBC.CTMS.Infrastructure.csproj.user
+/MagnaBC.CTMS.OfficialsApp/MagnaBC.CTMS.OfficialsApp.csproj.user
+/MagnaBC.CTMS.Tests/MagnaBC.CTMS.Tests.csproj.user
+/MagnaBC.CTMS.Web/MagnaBC.CTMS.Web.csproj.user
+/MagnaBC.CTMS.OfficalsApp/MagnaBC.CTMS.OfficialsApp.csproj.user
+/CTMS.bacpac
+/MagnaBC.CTMS.Web.Angular/.vs
+/MagnaBC.CTMS.Import/obj/project.assets.json
+/MagnaBC.CTMS.Import/obj/MagnaBC.CTMS.Import.csproj.nuget.g.props
+/MagnaBC.CTMS.Import/obj/MagnaBC.CTMS.Import.csproj.nuget.dgspec.json
+/MagnaBC.CTMS.IntegrationTests/obj/MagnaBC.CTMS.IntegrationTests.csproj.nuget.dgspec.json
+/MagnaBC.CTMS.IntegrationTests/obj/MagnaBC.CTMS.IntegrationTests.csproj.nuget.g.props
+/MagnaBC.CTMS.IntegrationTests/obj/project.assets.json
+/MagnaBC.CTMS.DomainServices/Resources/EmguCVLibraries/libcvextern.so
+/MagnaBC.CTMS.OfficalsApp/MagnaBC.CTMS.OfficialsApp.csproj.user
+/TestResults

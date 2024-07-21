@@ -1,41 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\KMT\\source\\repos\\BeerOpenTap\\BeerTap\\",
+  "WorkspaceRootPath": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|c:\\users\\kmt\\source\\repos\\beeropentap\\beertap\\beertap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|solutionrelative:beertap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|c:\\users\\kmt\\documents\\projects\\openbeertap project\\beertap-server - copy\\beertap\\services\\tabservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|solutionrelative:beertap\\services\\tabservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|c:\\users\\kmt\\source\\repos\\beeropentap\\beertap\\beertap\\beertap.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|solutionrelative:beertap\\beertap.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|c:\\users\\kmt\\documents\\projects\\openbeertap project\\beertap-server - copy\\beertap\\data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|solutionrelative:beertap\\data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|c:\\users\\kmt\\source\\repos\\beeropentap\\beertap\\beertap\\models\\tab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|solutionrelative:beertap\\models\\tab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|c:\\users\\kmt\\documents\\projects\\openbeertap project\\beertap-server - copy\\beertap\\data\\repositories\\beverage\\ibeveragerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|solutionrelative:beertap\\data\\repositories\\beverage\\ibeveragerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|c:\\users\\kmt\\source\\repos\\beeropentap\\beertap\\beertap\\controllers\\tabcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|c:\\users\\kmt\\documents\\projects\\openbeertap project\\beertap-server - copy\\beertap\\data\\repositories\\itemorder\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|solutionrelative:beertap\\data\\repositories\\itemorder\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|c:\\users\\kmt\\documents\\projects\\openbeertap project\\beertap-server - copy\\beertap\\data\\repositories\\tab\\tabrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|solutionrelative:beertap\\data\\repositories\\tab\\tabrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|c:\\users\\kmt\\documents\\projects\\openbeertap project\\beertap-server - copy\\beertap\\data\\repositories\\itemorder\\iorderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|solutionrelative:beertap\\data\\repositories\\itemorder\\iorderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|c:\\users\\kmt\\documents\\projects\\openbeertap project\\beertap-server - copy\\beertap\\data\\repositories\\tab\\itabrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|solutionrelative:beertap\\data\\repositories\\tab\\itabrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|c:\\users\\kmt\\documents\\projects\\openbeertap project\\beertap-server - copy\\beertap\\data\\bardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|solutionrelative:beertap\\data\\bardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|c:\\users\\kmt\\documents\\projects\\openbeertap project\\beertap-server - copy\\beertap\\data\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|solutionrelative:beertap\\data\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|c:\\users\\kmt\\documents\\projects\\openbeertap project\\beertap-server - copy\\beertap\\controllers\\tabcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|solutionrelative:beertap\\controllers\\tabcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|c:\\users\\kmt\\source\\repos\\beeropentap\\beertap\\beertap\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|solutionrelative:beertap\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|c:\\users\\kmt\\documents\\projects\\openbeertap project\\beertap-server - copy\\beertap\\data\\repositories\\beverage\\beveragerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|solutionrelative:beertap\\data\\repositories\\beverage\\beveragerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|c:\\users\\kmt\\source\\repos\\beeropentap\\beertap\\beertap\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|solutionrelative:beertap\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|c:\\users\\kmt\\documents\\projects\\openbeertap project\\beertap-server - copy\\beertap\\beertap.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|solutionrelative:beertap\\beertap.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|c:\\users\\kmt\\source\\repos\\beeropentap\\beertap\\beertap\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|solutionrelative:beertap\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|c:\\users\\kmt\\source\\repos\\beeropentap\\beertap\\beertap\\models\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|c:\\users\\kmt\\documents\\projects\\openbeertap project\\beertap-server - copy\\beertap\\models\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|solutionrelative:beertap\\models\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|c:\\users\\kmt\\source\\repos\\beeropentap\\beertap\\beertap\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|c:\\users\\kmt\\documents\\projects\\openbeertap project\\beertap-server - copy\\beertap\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|solutionrelative:beertap\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|c:\\users\\kmt\\documents\\projects\\openbeertap project\\beertap-server - copy\\beertap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|solutionrelative:beertap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|c:\\users\\kmt\\documents\\projects\\openbeertap project\\beertap-server - copy\\beertap\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|solutionrelative:beertap\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|c:\\users\\kmt\\documents\\projects\\openbeertap project\\beertap-server - copy\\beertap\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|solutionrelative:beertap\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|c:\\users\\kmt\\documents\\projects\\openbeertap project\\beertap-server - copy\\beertap\\models\\tab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|solutionrelative:beertap\\models\\tab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|c:\\users\\kmt\\documents\\projects\\openbeertap project\\beertap-server - copy\\beertap\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9A748AB2-81B8-452C-BB07-AAFF67EF4E82}|BeerTap\\BeerTap.csproj|solutionrelative:beertap\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -45,7 +85,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 175,
+          "DockedWidth": 141,
           "SelectedChildIndex": -1,
           "Children": [
             {
@@ -59,7 +99,7 @@
           ]
         },
         {
-          "DockedWidth": 110,
+          "DockedWidth": 144,
           "SelectedChildIndex": 23,
           "Children": [
             {
@@ -132,102 +172,141 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\KMT\\source\\repos\\BeerOpenTap\\BeerTap\\BeerTap\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "BeerTap\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\KMT\\source\\repos\\BeerOpenTap\\BeerTap\\BeerTap\\Properties\\launchSettings.json",
-              "RelativeToolTip": "BeerTap\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-16T11:34:13.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\KMT\\source\\repos\\BeerOpenTap\\BeerTap\\BeerTap\\Models\\OrderItem.cs",
-              "RelativeDocumentMoniker": "BeerTap\\Models\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\KMT\\source\\repos\\BeerOpenTap\\BeerTap\\BeerTap\\Models\\OrderItem.cs",
-              "RelativeToolTip": "BeerTap\\Models\\OrderItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Title": "ITabRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Data\\Repositories\\Tab\\ITabRepository.cs",
+              "RelativeDocumentMoniker": "BeerTap\\Data\\Repositories\\Tab\\ITabRepository.cs",
+              "ToolTip": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Data\\Repositories\\Tab\\ITabRepository.cs",
+              "RelativeToolTip": "BeerTap\\Data\\Repositories\\Tab\\ITabRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T11:37:27.559Z",
+              "WhenOpened": "2024-07-20T19:13:16.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\KMT\\source\\repos\\BeerOpenTap\\BeerTap\\BeerTap\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "BeerTap\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\KMT\\source\\repos\\BeerOpenTap\\BeerTap\\BeerTap\\appsettings.Development.json",
-              "RelativeToolTip": "BeerTap\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-16T11:34:39.785Z",
+              "DocumentIndex": 4,
+              "Title": "TabRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Data\\Repositories\\Tab\\TabRepository.cs",
+              "RelativeDocumentMoniker": "BeerTap\\Data\\Repositories\\Tab\\TabRepository.cs",
+              "ToolTip": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Data\\Repositories\\Tab\\TabRepository.cs",
+              "RelativeToolTip": "BeerTap\\Data\\Repositories\\Tab\\TabRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T19:14:12.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Beverage.cs",
-              "DocumentMoniker": "C:\\Users\\KMT\\source\\repos\\BeerOpenTap\\BeerTap\\BeerTap\\Models\\Beverage.cs",
-              "RelativeDocumentMoniker": "BeerTap\\Models\\Beverage.cs",
-              "ToolTip": "C:\\Users\\KMT\\source\\repos\\BeerOpenTap\\BeerTap\\BeerTap\\Models\\Beverage.cs",
-              "RelativeToolTip": "BeerTap\\Models\\Beverage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAUAAAA",
+              "DocumentIndex": 5,
+              "Title": "IOrderItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Data\\Repositories\\ItemOrder\\IOrderItemRepository.cs",
+              "RelativeDocumentMoniker": "BeerTap\\Data\\Repositories\\ItemOrder\\IOrderItemRepository.cs",
+              "ToolTip": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Data\\Repositories\\ItemOrder\\IOrderItemRepository.cs",
+              "RelativeToolTip": "BeerTap\\Data\\Repositories\\ItemOrder\\IOrderItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T11:36:26.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Tab.cs",
-              "DocumentMoniker": "C:\\Users\\KMT\\source\\repos\\BeerOpenTap\\BeerTap\\BeerTap\\Models\\Tab.cs",
-              "RelativeDocumentMoniker": "BeerTap\\Models\\Tab.cs",
-              "ToolTip": "C:\\Users\\KMT\\source\\repos\\BeerOpenTap\\BeerTap\\BeerTap\\Models\\Tab.cs",
-              "RelativeToolTip": "BeerTap\\Models\\Tab.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T11:37:51.248Z",
+              "WhenOpened": "2024-07-20T18:56:12.482Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "OrderItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Data\\Repositories\\ItemOrder\\OrderItemRepository.cs",
+              "RelativeDocumentMoniker": "BeerTap\\Data\\Repositories\\ItemOrder\\OrderItemRepository.cs",
+              "ToolTip": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Data\\Repositories\\ItemOrder\\OrderItemRepository.cs",
+              "RelativeToolTip": "BeerTap\\Data\\Repositories\\ItemOrder\\OrderItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T18:55:51.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Data\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "BeerTap\\Data\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Data\\Repositories\\Repository.cs",
+              "RelativeToolTip": "BeerTap\\Data\\Repositories\\Repository.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAswBUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T22:15:14.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBeverageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Data\\Repositories\\Beverage\\IBeverageRepository.cs",
+              "RelativeDocumentMoniker": "BeerTap\\Data\\Repositories\\Beverage\\IBeverageRepository.cs",
+              "ToolTip": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Data\\Repositories\\Beverage\\IBeverageRepository.cs",
+              "RelativeToolTip": "BeerTap\\Data\\Repositories\\Beverage\\IBeverageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T23:11:59.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TabService.cs",
+              "DocumentMoniker": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Services\\TabService.cs",
+              "RelativeDocumentMoniker": "BeerTap\\Services\\TabService.cs",
+              "ToolTip": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Services\\TabService.cs",
+              "RelativeToolTip": "BeerTap\\Services\\TabService.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAArwCIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T18:13:36.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BarDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Data\\BarDbContext.cs",
+              "RelativeDocumentMoniker": "BeerTap\\Data\\BarDbContext.cs",
+              "ToolTip": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Data\\BarDbContext.cs",
+              "RelativeToolTip": "BeerTap\\Data\\BarDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAlwBQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T18:09:32.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Data\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "BeerTap\\Data\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Data\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "BeerTap\\Data\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T22:16:36.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "TabController.cs",
-              "DocumentMoniker": "C:\\Users\\KMT\\source\\repos\\BeerOpenTap\\BeerTap\\BeerTap\\Controllers\\TabController.cs",
+              "DocumentMoniker": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Controllers\\TabController.cs",
               "RelativeDocumentMoniker": "BeerTap\\Controllers\\TabController.cs",
-              "ToolTip": "C:\\Users\\KMT\\source\\repos\\BeerOpenTap\\BeerTap\\BeerTap\\Controllers\\TabController.cs",
+              "ToolTip": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Controllers\\TabController.cs",
               "RelativeToolTip": "BeerTap\\Controllers\\TabController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwDgAAAAFAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwBcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T11:44:22.442Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\KMT\\source\\repos\\BeerOpenTap\\BeerTap\\BeerTap\\Program.cs",
-              "RelativeDocumentMoniker": "BeerTap\\Program.cs",
-              "ToolTip": "C:\\Users\\KMT\\source\\repos\\BeerOpenTap\\BeerTap\\BeerTap\\Program.cs",
-              "RelativeToolTip": "BeerTap\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T11:28:46.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "BeerTap.http",
-              "DocumentMoniker": "C:\\Users\\KMT\\source\\repos\\BeerOpenTap\\BeerTap\\BeerTap\\BeerTap.http",
+              "DocumentMoniker": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\BeerTap.http",
               "RelativeDocumentMoniker": "BeerTap\\BeerTap.http",
-              "ToolTip": "C:\\Users\\KMT\\source\\repos\\BeerOpenTap\\BeerTap\\BeerTap\\BeerTap.http",
+              "ToolTip": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\BeerTap.http",
               "RelativeToolTip": "BeerTap\\BeerTap.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -236,15 +315,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
+              "Title": "BeverageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Data\\Repositories\\Beverage\\BeverageRepository.cs",
+              "RelativeDocumentMoniker": "BeerTap\\Data\\Repositories\\Beverage\\BeverageRepository.cs",
+              "ToolTip": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Data\\Repositories\\Beverage\\BeverageRepository.cs",
+              "RelativeToolTip": "BeerTap\\Data\\Repositories\\Beverage\\BeverageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T22:53:25.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Program.cs",
+              "RelativeDocumentMoniker": "BeerTap\\Program.cs",
+              "ToolTip": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Program.cs",
+              "RelativeToolTip": "BeerTap\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAMwDcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:28:46.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Beverage.cs",
+              "DocumentMoniker": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Models\\Beverage.cs",
+              "RelativeDocumentMoniker": "BeerTap\\Models\\Beverage.cs",
+              "ToolTip": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Models\\Beverage.cs",
+              "RelativeToolTip": "BeerTap\\Models\\Beverage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:36:26.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "BeerTap\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Models\\OrderItem.cs",
+              "RelativeToolTip": "BeerTap\\Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:37:27.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\KMT\\source\\repos\\BeerOpenTap\\BeerTap\\BeerTap\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\appsettings.json",
               "RelativeDocumentMoniker": "BeerTap\\appsettings.json",
-              "ToolTip": "C:\\Users\\KMT\\source\\repos\\BeerOpenTap\\BeerTap\\BeerTap\\appsettings.json",
+              "ToolTip": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\appsettings.json",
               "RelativeToolTip": "BeerTap\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-07-16T11:30:43.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BeerTap\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BeerTap\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T11:34:13.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Tab.cs",
+              "DocumentMoniker": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Models\\Tab.cs",
+              "RelativeDocumentMoniker": "BeerTap\\Models\\Tab.cs",
+              "ToolTip": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\Models\\Tab.cs",
+              "RelativeToolTip": "BeerTap\\Models\\Tab.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:37:51.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BeerTap\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\KMT\\Documents\\Projects\\OpenBeerTap Project\\BeerTap-server - Copy\\BeerTap\\appsettings.Development.json",
+              "RelativeToolTip": "BeerTap\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T11:34:39.785Z",
               "EditorCaption": ""
             }
           ]
